@@ -1,0 +1,52 @@
+ #solid {
+    background-color: white;
+    border: 5px solid black;
+    padding: 10px;
+    justify-content:flex-start
+
+} 
+
+#dotted {
+    background-color: white;
+    border: 5px dotted black;
+    justify-content: center;
+}
+
+.purplerect{
+    height: 150px;
+    width: 50px;
+    background-color:mediumpurple;
+    display:inline-block;
+    margin-right: 50px;
+    
+    
+}
+
+.greenrect {
+    height: 200px;
+    width: 500px;
+    background-color:limegreen;
+    display:inline-block;
+    margin-right: 50px
+
+}
+    
+.dot {
+    height: 200px;
+    width: 200px;
+    background-color:lightskyblue;
+    border-radius: 50%;
+    display: inline-block;
+  }
+
+
+.creamrect {
+    display:block;
+    margin-left:auto;
+    margin-right:auto ;
+    height: 150px;
+    width:95%;
+    background-color: lightgoldenrodyellow;
+    box-shadow: 5px 10px 5px ;
+    justify-content: center;
+}
